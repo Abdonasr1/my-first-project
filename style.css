@@ -1,0 +1,6 @@
+.grid{
+    background: #348CCF;
+    background: linear-gradient(to right, #348CCF 0%, #88CF59 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
